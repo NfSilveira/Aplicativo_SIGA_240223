@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppSIGA240223</string>
+    <string name="title">Calculadora de Tempo Letivo</string>
+    <string name="birthDateLabel">Digite a data de nascimento:</string>
+    <string name="enrollmentDateLabel">Digite a data de ingresso:</string>
+    <string name="birthDate">Ex.: 01/01/2001</string>
+    <string name="enrollmentDate">Ex.: 01/01/2001</string>
+</resources>
